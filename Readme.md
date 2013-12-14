@@ -38,7 +38,7 @@ Because asynchronous calls suck out your brain without a proper async handler. T
 	// 5 second => finished
 ```
 
-## Next parameters
+## Next arguments
 - **count**: the number of times you will have to call the `next()` instance. `required` `integer`
 - **finish**: finishing callback `required` `function`
 
