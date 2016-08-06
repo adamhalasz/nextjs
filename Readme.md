@@ -1,5 +1,5 @@
 # Next  
-Because asynchronous calls suck out your brain without a proper async handler. This one is just 4 lines yet it solves a huge issue.
+A simple way to handle asychronous callbacks. The whole source code is just 4 lines!
 
 ### Install
 ```config
